@@ -38,7 +38,7 @@
 | --- | --- | --- | --- | --- |
 | 徐川 | [pockry](http://github.com/pockry) | 移动开发 |  | [移动开发前线](assets/images/qrcode_for_gh_dc045507492c_258.jpg) |
 | 唐巧 | [tangqiaoboy](https://github.com/tangqiaoboy) | iOS | [唐巧的技术博客](http://blog.devtang.com/) | [iOS开发](assets/images/tangqiao.jpg) |
-| 段建华 |   | Android | [技术小黑屋](http://droidyue.com/) | [Android开发精选](assets/images/AndroidPush.jpg) |
+| 段建华 | [androidyue](https://github.com/androidyue)  | Android | [技术小黑屋](http://droidyue.com/) | [Android开发精选](assets/images/AndroidPush.jpg) |
  
  
  
