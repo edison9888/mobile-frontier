@@ -31,6 +31,8 @@
 公众号：（包括名称和二维码，二维码请上传最小尺寸的）
 ```
 
+> 注意：想修改你的信息的话请fork本项目然后提交pull request，只能修改你自己的信息。
+
 
 ##成员列表
 
@@ -39,7 +41,24 @@
 | 徐川 | [pockry](http://github.com/pockry) | 移动开发 |  | [移动开发前线](assets/images/qrcode_for_gh_dc045507492c_258.jpg) |
 | 唐巧 | [tangqiaoboy](https://github.com/tangqiaoboy) | iOS | [唐巧的技术博客](http://blog.devtang.com/) | [iOS开发](assets/images/tangqiao.jpg) |
 | 段建华 | [androidyue](https://github.com/androidyue)  | Android | [技术小黑屋](http://droidyue.com/) | |
- 
- 
+| 程序亦非猿 | [AlanCheen](https://github.com/AlanCheen) | Android | [菩提本无树,程序亦非猿](http://yifeiyuan.me/) | [程序亦非猿](assets/images/yifeiyuan.jpg) |
+| 圣迪 | [cendywang](https://github.com/cendywang) | 移动开发、架构、安全 | [圣迪 - 简书](http://www.jianshu.com/users/a774b58c9b89) |   |
+| AndWang玉鹏 | [ThinkWYP](https://github.com/AlanCheen) | Android | [AndWang](http://sayall.win/) | |
+| 汤涛 | [tangtao316](https://github.com/tangtao316) | Android | [汤涛 - 简书](http://www.jianshu.com/users/8397d05ad09f) | [Android程序员](assets/images/tangtao.jpg) |
+| 冯建 | [openproject](https://github.com/openproject) | Android | [杰风居](http://www.jayfeng.com/) |   |
+| 张勇 | [cmzy](https://github.com/cmzy) | Android |   |   |
+| 牛晓伟 | [niuxiaowei](https://github.com/niuxiaowei) | Android、React Native | [牛晓伟 - 简书](http://www.jianshu.com/users/2ce7b74b592b) |   |
+| 程超 | [ostea](https://github.com/ostea) | Android、Swift | [ostea's blog](http://blog.csdn.net/ostea) |   |
+| lincode | [lincode](https://github.com/lincode) | 移动开发 | [lincode](https://lincode.github.io/) |  |
+| 管振纬 | [dustturtle](https://github.com/dustturtle) | iOS、Swift、Hybrid | [iOS应用开发技术专栏](http://blog.csdn.net/openglnewbee) |   |
+| 路客 | [peterlog](https://github.com/peterlog) | iOS、Swift、Android |   | [湘籍程序员](assets/images/luke.jpg) |
+| 申冠华 | [shenAlexy](https://github.com/shenAlexy) | iOS | [申冠华的博客](http://blog.csdn.net/shenguanhua) | [iOSDevTeam](assets/images/shenguanhua.jpg) |
+| SwiftLanguage | [ipader](https://github.com/shenAlexy) | Swift | [Swift 语言指南](http://dev.swiftguide.cn/) | |
+| Clock | [D-clock](https://github.com/D-clock) | Android、Java Web | [D_clock - 简书](http://www.jianshu.com/users/ec95b5891948) |   |
+| 曾宪华 | [xhzengAIB](https://github.com/xhzengAIB) | iOS | [Art's IO](http://zengxianhua.com/) |   |
+| 小创 | [ChrisZou](https://github.com/ChrisZou) | Android | [邹小创](http://chriszou.com/) | [小创作](assets/images/xiaochuang.jpg) |
+
+
+
  
  欢迎你的加入！~
