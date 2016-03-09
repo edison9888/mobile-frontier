@@ -43,7 +43,7 @@
 | 段建华 | [androidyue](https://github.com/androidyue)  | Android | [技术小黑屋](http://droidyue.com/) | |
 | 程序亦非猿 | [AlanCheen](https://github.com/AlanCheen) | Android | [菩提本无树,程序亦非猿](http://yifeiyuan.me/) | [程序亦非猿](assets/images/yifeiyuan.jpg) |
 | 圣迪 | [cendywang](https://github.com/cendywang) | 移动开发、架构、安全 | [圣迪 - 简书](http://www.jianshu.com/users/a774b58c9b89) |   |
-| AndWang玉鹏 | [ThinkWYP](https://github.com/AlanCheen) | Android | [AndWang](http://sayall.win/) | |
+| AndWang玉鹏 | [ThinkWYP](https://github.com/ThinkWYP) | Android | [AndWang](http://sayall.win/) | |
 | 汤涛 | [tangtao316](https://github.com/tangtao316) | Android | [汤涛 - 简书](http://www.jianshu.com/users/8397d05ad09f) | [Android程序员](assets/images/tangtao.jpg) |
 | 冯建 | [openproject](https://github.com/openproject) | Android | [杰风居](http://www.jayfeng.com/) |   |
 | 张勇 | [cmzy](https://github.com/cmzy) | Android |   |   |
