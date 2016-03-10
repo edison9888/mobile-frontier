@@ -41,6 +41,7 @@
 | 徐川 | [pockry](http://github.com/pockry) | 移动开发 |  | [移动开发前线](assets/images/qrcode_for_gh_dc045507492c_258.jpg) |
 | 唐巧 | [tangqiaoboy](https://github.com/tangqiaoboy) | iOS | [唐巧的技术博客](http://blog.devtang.com/) | [iOS开发](assets/images/tangqiao.jpg) |
 | 段建华 | [androidyue](https://github.com/androidyue)  | Android | [技术小黑屋](http://droidyue.com/) | |
+| Trinea | [Trinea](https://github.com/Trinea) | Android | [Trinea](http://www.trinea.cn/) | [codeKK](assets/images/codekk.jpg) |
 | 程序亦非猿 | [AlanCheen](https://github.com/AlanCheen) | Android | [菩提本无树,程序亦非猿](http://yifeiyuan.me/) | [程序亦非猿](assets/images/yifeiyuan.jpg) |
 | 圣迪 | [cendywang](https://github.com/cendywang) | 移动开发、架构、安全 | [圣迪 - 简书](http://www.jianshu.com/users/a774b58c9b89) |   |
 | AndWang玉鹏 | [ThinkWYP](https://github.com/ThinkWYP) | Android | [AndWang](http://sayall.win/) | |
@@ -53,10 +54,14 @@
 | 管振纬 | [dustturtle](https://github.com/dustturtle) | iOS、Swift、Hybrid | [iOS应用开发技术专栏](http://blog.csdn.net/openglnewbee) |   |
 | 路客 | [peterlog](https://github.com/peterlog) | iOS、Swift、Android |   | [湘籍程序员](assets/images/luke.jpg) |
 | 申冠华 | [shenAlexy](https://github.com/shenAlexy) | iOS | [申冠华的博客](http://blog.csdn.net/shenguanhua) | [iOSDevTeam](assets/images/shenguanhua.jpg) |
-| SwiftLanguage | [ipader](https://github.com/shenAlexy) | Swift | [Swift 语言指南](http://dev.swiftguide.cn/) | |
+| SwiftLanguage | [ipader](https://github.com/shenAlexy) | Swift | [Swift 语言指南](http://dev.swiftguide.cn/) | [SwiftLanguage](assets/images/swiftlanguage.jpg) |
 | Clock | [D-clock](https://github.com/D-clock) | Android、Java Web | [D_clock - 简书](http://www.jianshu.com/users/ec95b5891948) |   |
 | 曾宪华 | [xhzengAIB](https://github.com/xhzengAIB) | iOS | [Art's IO](http://zengxianhua.com/) |   |
 | 小创 | [ChrisZou](https://github.com/ChrisZou) | Android | [邹小创](http://chriszou.com/) | [小创作](assets/images/xiaochuang.jpg) |
+| 马飞 | [logan62334](https://github.com/logan62334) | Android | [马飞的技术博客](http://mafei.me/) | [FullStackEngineer](assets/images/mafei.jpg) |
+| wulabaha | [wulabaha](https://github.com/wulabaha) | iOS | [呜拉巴哈](http://ianhao.cn/) |  |
+| asdzheng | [asdzheng](https://github.com/asdzheng) | Android | [asdzheng的专栏](http://blog.csdn.net/asdzheng) |  |
+
 
 
 
