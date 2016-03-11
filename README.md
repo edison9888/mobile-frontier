@@ -53,7 +53,7 @@
 | lincode | [lincode](https://github.com/lincode) | 移动开发 | [lincode](https://lincode.github.io/) |  |
 | 管振纬 | [dustturtle](https://github.com/dustturtle) | iOS、Swift、Hybrid | [iOS应用开发技术专栏](http://blog.csdn.net/openglnewbee) |   |
 | 路客 | [peterlog](https://github.com/peterlog) | iOS、Swift、Android |   | [湘籍程序员](assets/images/luke.jpg) |
-| 申冠华 | [shenAlexy](https://github.com/shenAlexy) | iOS | [申冠华的博客](http://blog.csdn.net/shenguanhua) | [iOSDevTeam](assets/images/shenguanhua.jpg) |
+| 申冠华 | [shenAlexy](https://github.com/shenAlexy) | iOS | [申冠华的博客](http://blog.csdn.net/shenguanhua) | [iOS干货分享](assets/images/shenguanhua.jpg) |
 | SwiftLanguage | [ipader](https://github.com/shenAlexy) | Swift | [Swift 语言指南](http://dev.swiftguide.cn/) | [SwiftLanguage](assets/images/swiftlanguage.jpg) |
 | Clock | [D-clock](https://github.com/D-clock) | Android、Java Web | [D_clock - 简书](http://www.jianshu.com/users/ec95b5891948) |   |
 | 曾宪华 | [xhzengAIB](https://github.com/xhzengAIB) | iOS | [Art's IO](http://zengxianhua.com/) |   |
