@@ -61,7 +61,7 @@
 | 马飞 | [logan62334](https://github.com/logan62334) | Android | [马飞的技术博客](http://mafei.me/) | [FullStackEngineer](assets/images/mafei.jpg) |
 | wulabaha | [wulabaha](https://github.com/wulabaha) | iOS | [呜拉巴哈](http://ianhao.cn/) |  |
 | asdzheng | [asdzheng](https://github.com/asdzheng) | Android | [asdzheng的专栏](http://blog.csdn.net/asdzheng) |  |
-
+| 柴茝 | [BraveMatchstickMen](https://github.com/BraveMatchstickMen) | iOS、Android | [柴茝 - 简书](http://www.jianshu.com/users/fddb055efe32/latest_articles) | |
 
 
 
