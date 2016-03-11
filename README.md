@@ -62,6 +62,10 @@
 | wulabaha | [wulabaha](https://github.com/wulabaha) | iOS | [呜拉巴哈](http://ianhao.cn/) |  |
 | asdzheng | [asdzheng](https://github.com/asdzheng) | Android | [asdzheng的专栏](http://blog.csdn.net/asdzheng) |  |
 | 柴茝 | [BraveMatchstickMen](https://github.com/BraveMatchstickMen) | iOS、Android | [柴茝 - 简书](http://www.jianshu.com/users/fddb055efe32/latest_articles) | |
+| Lshare | [LinLshare](https://github.com/LinLshare) | Android | [Lshare手札](http://lshare.me/) |  |
+| xpleemoon | [xpleemoon](https://github.com/xpleemoon) | Android | [xpleemoon－简书](http://www.jianshu.com/users/ac4f127d5150) | |
+| GeneralAndroid | [gcgongchao](https://github.com/gcgongchao) | Android |  | |
+
 
 
 
