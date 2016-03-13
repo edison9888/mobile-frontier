@@ -66,6 +66,7 @@
 | xpleemoon | [xpleemoon](https://github.com/xpleemoon) | Android | [xpleemoon－简书](http://www.jianshu.com/users/ac4f127d5150) | |
 | GeneralAndroid | [gcgongchao](https://github.com/gcgongchao) | Android |  | |
 | 某学姐 | [wangxinghe](https://github.com/wangxinghe) | Android | [学姐的技术成长之路](http://wangxinghe.me/) | [学姐的IT专栏](assets/images/mouxuejie.jpg) |
+| MrPeak | [music4kid](https://github.com/music4kid) | iOS、Android | [MrPeak技术分享](http://mrpeak.cn/) | MrPeakTech |
 
 
 
