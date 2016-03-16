@@ -67,6 +67,9 @@
 | GeneralAndroid | [gcgongchao](https://github.com/gcgongchao) | Android |  | |
 | 某学姐 | [wangxinghe](https://github.com/wangxinghe) | Android | [学姐的技术成长之路](http://wangxinghe.me/) | [学姐的IT专栏](assets/images/mouxuejie.jpg) |
 | MrPeak | [music4kid](https://github.com/music4kid) | iOS、Android | [MrPeak技术分享](http://mrpeak.cn/) | MrPeakTech |
+| 咕咚 | [maoruibin](https://github.com/maoruibin) | Android | [咕咚](http://gudong.name/) |  |
+| 李兴乐 | [Lves](https://github.com/Lves) | iOS、Swift | [LvesLi's Blogging](http://www.lvesli.com/) | [乐Coding](assets/images/lixingle.jpg) |
+| 李兴乐 | [Lves](https://github.com/Lves) | iOS、Swift | [LvesLi's Blogging](http://www.lvesli.com/) | [乐Coding](assets/images/lixingle.jpg) |
 
 
 
