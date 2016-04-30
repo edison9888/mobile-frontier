@@ -69,6 +69,7 @@
 | MrPeak | [music4kid](https://github.com/music4kid) | iOS、Android | [MrPeak技术分享](http://mrpeak.cn/) | MrPeakTech |
 | 咕咚 | [maoruibin](https://github.com/maoruibin) | Android | [咕咚](http://gudong.name/) |  |
 | 李兴乐 | [Lves](https://github.com/Lves) | iOS、Swift | [LvesLi's Blogging](http://www.lvesli.com/) | [乐Coding](assets/images/lixingle.jpg) |
+| 廖锦幸 | [liaojinxing](https://github.com/liaojinxing) | iOS | [liaojinxing-简书](http://www.jianshu.com/users/25481f0294aa) | [iOS开发探索](assets/images/liaojinxing.jpg) |
 
 
 
